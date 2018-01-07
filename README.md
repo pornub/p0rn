@@ -1,20 +1,4 @@
-C.A.V.A. (M.P.)
-====================
 
-**C**onsole-based **A**udio **V**isualizer for **A**LSA (**M**PD and **P**ulseaudio)
-
-by [Karl Stavestrand](mailto:karl@stavestrand.no)
-
-Changes in 0.6:
-* Autosens of low values (dynamic range)
-* Removed config parameter 'overshoot'
-* Removed config parameter 'mode'
-* New config parameter 'waves'
-* Changed config parameter 'style' to 'channels' (was either 'mono' or 'stereo' anyway)
-* Parameters 'integral' and 'gravity' are now in percentage
-
-
-![spectrum](https://raw.githubusercontent.com/karlstav/cava/gh-pages/cava_gradient.gif "spectrum")
 
 thanks to [anko](https://github.com/anko) for the gif, here is the [recipe]( http://unix.stackexchange.com/questions/113695/gif-screencastng-the-unix-way).
 
