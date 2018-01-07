@@ -1,5 +1,6 @@
 
 
+![spectrum](https://raw.githubusercontent.com/karlstav/cava/gh-pages/cava_gradient.gif "spectrum")
 thanks to [anko](https://github.com/anko) for the gif, here is the [recipe]( http://unix.stackexchange.com/questions/113695/gif-screencastng-the-unix-way).
 
 [Demo video](https://youtu.be/9PSp8VA6yjU)
